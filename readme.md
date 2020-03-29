@@ -10,7 +10,7 @@
     <img alt="Made by mleitejunior" src="https://img.shields.io/badge/created%20by-mleitejunior-brightgreen">
   </a>
 
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/commits/master">
+  <a href="https://github.com/mleitejunior/be-the-hero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mleitejunior/be-the-hero">
   </a>
 
