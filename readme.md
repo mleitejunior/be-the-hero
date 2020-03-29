@@ -5,7 +5,7 @@
 </h4>
 
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src=".github/preview.gif" width="400px" />
+    <img alt="BeTheHero" title="#BeTheHero" src=".github/preview.gif" width="640px" />
 </h1>
 
 <p align="center">
@@ -27,9 +27,9 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-usar">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 ## 💻 Sobre
@@ -86,8 +86,9 @@ Este projeto está sobre a licença MIT. Ler [LICENSE](LICENSE.md) para detalhes
 
 ## Agradecimentos
 
-Agradeço à Rocketseat pelos conteúdos do canal e os cursos/bootcamps.
-Agradeço à Daniel Obara pela inspiração deste Readme.md (aprendi muito): [Daniel Obara!](https://www.linkedin.com/in/danielobara/)
+- Agradeço à Rocketseat pelos conteúdos do canal e os cursos/bootcamps.
+- Agradeço à Daniel Obara pela inspiração deste Readme.md (aprendi muito): [Daniel Obara!](https://www.linkedin.com/in/danielobara/)
+
 ---
 
 Feito com ♥ por Marcelo Leite Junior :wave: [Entre em contato!](https://www.linkedin.com/in/marcelo-leite-junior-472a9313a/)
