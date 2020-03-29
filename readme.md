@@ -82,8 +82,8 @@ Este projeto está sobre a licença MIT. Ler [LICENSE](LICENSE.md) para detalhes
 
 ## Agradecimentos
 
-- Agradeço à Rocketseat pelos conteúdos do canal e os cursos/bootcamps.
-- Agradeço à Daniel Obara pela inspiração deste Readme.md (aprendi muito): [Daniel Obara!](https://www.linkedin.com/in/danielobara/)
+- Agradeço à [Rocketseat](https://rocketseat.com.br/) pelos conteúdos do canal e os cursos/bootcamps.
+- Agradeço à [Daniel Obara](https://www.linkedin.com/in/danielobara/) pela inspiração deste Readme.md (aprendi muito). 
 
 ---
 
