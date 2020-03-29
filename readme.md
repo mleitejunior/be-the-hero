@@ -1,7 +1,7 @@
 # Be The Hero | Semana OmniStack 11.0 by RocketSeat
 
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src=".github/preview.gif" width="640px" />
+    <img alt="BeTheHero" title="#BeTheHero" src=".github/preview.gif" width="640px" border="1"/>
 </h1>
 
 <p align="center">
