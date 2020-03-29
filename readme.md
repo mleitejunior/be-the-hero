@@ -1,6 +1,6 @@
 
 
-<h4 align="center" style="font-size: 26px" > 
+<h4 align="center" style="font-size: 40px" > 
     # Be The Hero | Semana OmniStack 11.0 by RocketSeat
 </h4>
 
@@ -27,8 +27,8 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🤔-como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -48,7 +48,7 @@ This project was developed with the following technologies:
 
 ## :information_source: Como Usar
 
-Para clonar e rodar esta aplicação, você vai precisar do [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalados em seu computador.
+Para clonar e rodar esta aplicação, você vai precisar do [Git](https://git-scm.com), [Node.js][https://nodejs.org/en/download/] + [Yarn][https://yarnpkg.com/lang/pt-BR/docs/install/] instalados em seu computador.
 
 Da linha de comando:
 
