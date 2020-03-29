@@ -23,5 +23,19 @@ module.exports = {
         })
 
         return res.json( { id } );
+    },
+
+    async delete (req, res) {
+        const ong_id = req.headers.authorization;
+
+        const ong = await connection('ongs').where('id', ong_id).first();
+
+        if (!ong) {
+            return res.status(404).json({ error: "Invalid ONG id." });
+        }
+
+        await connection('ongs').where('id', ong_id).delete();
+        
+        return res.status(204).send();
     }
 };

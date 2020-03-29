@@ -22,11 +22,17 @@ routes.post('/ongs', celebrate({
     })
 }), OngController.create);
 
+routes.delete('/ongs', celebrate({
+    [Segments.HEADERS]: Joi.object({
+        authorization: Joi.string().required(),
+    }).unknown(),
+}),OngController.delete);
+
 routes.get('/profile', celebrate({
     [Segments.HEADERS]: Joi.object({
         authorization: Joi.string().required(),
     }).unknown(),
-}),ProfileController.index);
+}), ProfileController.index);
 
 routes.get('/incidents', celebrate({
     [Segments.QUERY]: Joi.object().keys({
