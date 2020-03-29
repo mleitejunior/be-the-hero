@@ -44,9 +44,9 @@ This project was developed with the following technologies:
 
 ## :information_source: Como Usar
 
-Para clonar e rodar esta aplicação, você vai precisar do [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) + [Yarn](https://yarnpkg.com/lang/pt-BR/docs/install/) instalados em seu computador.
+Para clonar e rodar esta aplicação, você vai precisar do [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) e [Yarn](https://yarnpkg.com/lang/pt-BR/docs/install/) instalados em seu computador.
 
-Da linha de comando:
+Em linha de comando:
 
 ### Instalando a API
 ```bash
