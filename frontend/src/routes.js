@@ -1,3 +1,5 @@
+// Rotas da aplicação, carregamento das páginas
+
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import React from 'react';
 

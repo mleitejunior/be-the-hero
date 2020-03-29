@@ -1,3 +1,5 @@
+// Rotas onde ficam todos os Métodos de Requisição
+
 const express = require('express');
 const { celebrate, Segments, Joi } = require('celebrate');
 
@@ -11,7 +13,12 @@ const routes = express.Router();
 
 routes.post('/sessions', SessionController.create);
 
+// ------------- ONGS ----------------
+
 routes.get('/ongs', OngController.index);
+
+// Celebrate utilizado como middleware para autenticações
+// É uma boa pratica separá-los em uma pasta para middlewares
 routes.post('/ongs', celebrate({
     [Segments.BODY]: Joi.object().keys({
         name: Joi.string().required(),
@@ -28,12 +35,15 @@ routes.delete('/ongs', celebrate({
     }).unknown(),
 }),OngController.delete);
 
+// ------------- PROFILE ----------------
+
 routes.get('/profile', celebrate({
     [Segments.HEADERS]: Joi.object({
         authorization: Joi.string().required(),
     }).unknown(),
 }), ProfileController.index);
 
+// ------------- INCIDENTS ----------------
 routes.get('/incidents', celebrate({
     [Segments.QUERY]: Joi.object().keys({
         page: Joi.number(),

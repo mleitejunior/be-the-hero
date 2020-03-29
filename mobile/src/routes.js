@@ -1,8 +1,11 @@
+// Rotas da aplicação, carregamento das páginas
+
 import React from 'react';
 
 import { NavigationContainer } from '@react-navigation/native';
 import  { createStackNavigator } from '@react-navigation/stack';
 
+// Utilizado para agilizar a navegação entre as páginas (não necessidar recarregamento)
 const AppStack = createStackNavigator();
 
 import Incidents from './pages/Incidents';

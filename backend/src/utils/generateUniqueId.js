@@ -1,3 +1,5 @@
+// Gerador de ID Hexadecimal utilizado no ONGController
+
 const crypto = require('crypto');
 
 module.exports = function generateUniqueId() {
