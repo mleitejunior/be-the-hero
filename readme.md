@@ -1,11 +1,7 @@
-
-
-<h4 align="center" style="font-size: 26px" > 
-    # Be The Hero | Semana OmniStack 11.0 by RocketSeat
-</h4>
+# Be The Hero | Semana OmniStack 11.0 by RocketSeat
 
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src=".github/preview.gif" width="400px" />
+    <img alt="BeTheHero" title="#BeTheHero" src=".github/preview.gif" width="640px" />
 </h1>
 
 <p align="center">
@@ -14,7 +10,7 @@
     <img alt="Made by mleitejunior" src="https://img.shields.io/badge/created%20by-mleitejunior-brightgreen">
   </a>
 
-  <a href="https://github.com/DanielObara/SemanaOmnistack11/commits/master">
+  <a href="https://github.com/mleitejunior/be-the-hero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mleitejunior/be-the-hero">
   </a>
 
@@ -27,9 +23,9 @@
 <p align="center">
   <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-usar">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🤔-como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 ## 💻 Sobre
@@ -48,9 +44,9 @@ This project was developed with the following technologies:
 
 ## :information_source: Como Usar
 
-Para clonar e rodar esta aplicação, você vai precisar do [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalados em seu computador.
+Para clonar e rodar esta aplicação, você vai precisar do [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) e [Yarn](https://yarnpkg.com/lang/pt-BR/docs/install/) instalados em seu computador.
 
-Da linha de comando:
+Em linha de comando:
 
 ### Instalando a API
 ```bash
@@ -86,8 +82,9 @@ Este projeto está sobre a licença MIT. Ler [LICENSE](LICENSE.md) para detalhes
 
 ## Agradecimentos
 
-Agradeço à Rocketseat pelos conteúdos do canal e os cursos/bootcamps.
-Agradeço à Daniel Obara pela inspiração deste Readme.md (aprendi muito): [Daniel Obara!](https://www.linkedin.com/in/danielobara/)
+- Agradeço à [Rocketseat](https://rocketseat.com.br/) pelos conteúdos do canal e os cursos/bootcamps.
+- Agradeço à [Daniel Obara](https://www.linkedin.com/in/danielobara/) pela inspiração deste Readme.md (aprendi muito). 
+
 ---
 
 Feito com ♥ por Marcelo Leite Junior :wave: [Entre em contato!](https://www.linkedin.com/in/marcelo-leite-junior-472a9313a/)
