@@ -1,8 +1,4 @@
-
-
-<h4 align="center" style="font-size: 40px" > 
-    # Be The Hero | Semana OmniStack 11.0 by RocketSeat
-</h4>
+# Be The Hero | Semana OmniStack 11.0 by RocketSeat
 
 <h1 align="center">
     <img alt="BeTheHero" title="#BeTheHero" src=".github/preview.gif" width="640px" />
